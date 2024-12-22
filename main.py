@@ -1,4 +1,4 @@
-# Soru 10: Kişinin kilo endeksini hesaplayan ve endeks değerine göre zayıf, 
+# Kişinin kilo endeksini hesaplayan ve endeks değerine göre zayıf, 
 # kilolu veya fazla kilolu sonucunu döndüren kodu yazın. 
 # (Kilo endeksi hesaplaması için internete bakabilirsiniz) 
 # Bunun için kullanıcıdan kilo ve boy ölçülerini isteyin. 
